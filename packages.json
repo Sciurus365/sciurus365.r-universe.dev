@@ -1,0 +1,26 @@
+[
+    {
+        "package": "simlandr",
+        "url": "https://github.com/Sciurus365/simlandr"
+    },
+    {
+        "package": "fitlandr",
+        "url": "https://github.com/Sciurus365/fitlandr"
+    },
+    {
+        "package": "Isinglandr",
+        "url": "https://github.com/Sciurus365/Isinglandr"
+    },
+    {
+        "package": "quadVAR",
+        "url": "https://github.com/Sciurus365/Isinglandr"
+    },
+    {
+        "package": "SparseVFC",
+        "url": "https://github.com/Sciurus365/SparseVFC"
+    },
+    {
+        "package": "NVAR",
+        "url": "https://github.com/Sciurus365/NVAR"
+    }
+]
